@@ -5,8 +5,7 @@ package poo;
  * @author diogo
  *
  *
- *	Classe Cartão  serve para mostrar os funcionários, os seus respetivos 
- *serviços e cargos.
+ *	Classe Cartão  serve para mostrar os funcionários, os seus respetivos serviços e cargos.
  */
 
 public class Cartao {
@@ -20,8 +19,7 @@ public class Cartao {
 	/**
 	 * Constructor - que tem como objetivo criar um objeto da classe Cartão com apenas o atributo nome incializado.
 	 * 
-	 * @param nomeFuncionario - Argumento que irá enviar. 
-	 * o nome do funcionário para ser guardado no objeto.
+	 * @param nomeFuncionario - Argumento que irá enviar o nome do funcionário para ser guardado no objeto.
 	 */
 	public Cartao(String nomeFuncionario) {
 		super();
