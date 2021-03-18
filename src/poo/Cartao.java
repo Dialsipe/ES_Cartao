@@ -16,6 +16,7 @@ public class Cartao {
 	private String cargo;
 	
 	// Construtores 
+	
 	/**
 	 * Constructor - que tem como objetivo criar um objeto da classe Cartão com apenas o atributo nome incializado.
 	 * 
@@ -92,6 +93,7 @@ public class Cartao {
 		//cargo = novoCargo;
 		setCargo(novoCargo);
 	}
+	
 	/**
 	 * Método para despedir um funcionário.
 	 */
