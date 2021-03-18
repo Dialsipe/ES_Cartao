@@ -84,7 +84,7 @@ public class Cartao {
 	}
 	
 	/**
-	 * 
+	 * serve para promover com um novo cargo
 	 * @param novoCargo - para guardar o valor do cargo.
 	 */
 	public void promoverNovoCargo( String novoCargo ) {
